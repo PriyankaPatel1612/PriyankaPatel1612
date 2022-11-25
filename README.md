@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Priyanka Patel</h1>
-<h3 align="center"> Currently pursuing bachelor's in Computer Science.</h3>
+<h3 align="center"> Currently pursuing bachelor's degree in Computer Science.</h3>
 
 - 📫 How to reach me **priya.priyanka1612@gmail.com**
 
