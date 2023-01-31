@@ -9,22 +9,19 @@
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/https://github.com/PriyankaPatel1612)   [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/priyanka-patel-0b1a7021b//)  
 
-## <h3 align="left">Languages and Tools:</h3>
-
+ <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968282.png' alt='java' height='40'>](https://www.java.com/en/)  [<img src='https://img.icons8.com/color/480/c-programming.png' alt='c' height='40'>](https://en.wikipedia.org/wiki/C_(programming_language))    [<img src='https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png' alt='c' height='40'>](https://en.wikipedia.org/wiki/C%2B%2B)  [<img src='https://cdn-icons-png.flaticon.com/512/732/732212.png' alt='html5' height='40'>](https://en.wikipedia.org/wiki/HTML)  [<img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='css3' height='40'>](https://en.wikipedia.org/wiki/CSS)  [<img src='https://avatars.githubusercontent.com/u/2918581?s=280&v=4' alt='bootstrap' height='40'>](https://getbootstrap.com/docs/5.3/getting-started/introduction/)   [<img src='https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png' alt='mysql' height='40'>](https://www.mysql.com/)  
 
 </div>
-  
-## <h3 align="left">My Github Stats</h3>
 
+## <h3 align="left">My Github Stats</h3>
 <div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaPatel1612&show_icons=true&theme=radical)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPatel1612&hide=javascript,htmlshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   
  </div>
-
 <h3 align="left">Visitor Count</h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/PriyankaPatel1612/count.svg)
