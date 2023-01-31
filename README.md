@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/https://github.com/PriyankaPatel1612)   [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/priyanka-patel-0b1a7021b//)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/PriyankaPatel1612)   [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/priyanka-patel-0b1a7021b//)  
 
  <h3 align="left">Languages and Tools:</h3>
 <div align="left">
