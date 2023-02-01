@@ -19,7 +19,7 @@
 ## <h3 align="left">My Github Stats</h3>
 <div align="left">
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaPatel1612&show_icons=true)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPatel1612&hide=javascript,htmlshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaPatel1612"/>
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaPatel1612&show_icons=true&theme=tokyonight)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPatel1612&hide=javascript,htmlshow_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaPatel1612"/>
   
  </div>
 <h3 align="left">Visitor Count</h3>
