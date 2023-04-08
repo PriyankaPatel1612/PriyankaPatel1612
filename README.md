@@ -25,7 +25,7 @@
 <h3 align="left">Visitor Count</h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/PriyankaPatel1612/count.svg)
-
+![snake gif](https://github.com/PriyankaPatel1612/PriyankaPatel1612/blob/output/github-contribution-grid-snake.svg)
 
 
 
