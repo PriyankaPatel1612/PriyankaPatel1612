@@ -16,13 +16,20 @@
 
 </div>
 
-## <h3 align="left">My Github Stats</h3>
-<div align="left">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyankaPatel1612&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PriyankaPatel1612&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPatel1612&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <h2> GitHub Stats:</h2>
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=PriyankaPatel1612&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%; max-width: 400px; margin-right: 10px; margin-bottom: 10px;" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaPatel1612&theme=radical&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPatel1612&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
+</div>
   
  </div>
 <h3 align="left">Visitor Count</h3>
