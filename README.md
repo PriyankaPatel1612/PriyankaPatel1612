@@ -1,7 +1,7 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Priyanka Patel</h1>
 <h2 align="center"> Computer Science Student</h2>
 
-**I'm a 3rd-year student pursuing Bachelor's in Computer Science from Shivajirao Kadam Institute of Technology and Management. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and leverage them.**
+**I'm an undergraduate student pursuing Bachelor's in Computer Science from Shivajirao Kadam Institute of Technology and Management.**
 
 - 📫 How to reach me **priya.priyanka1612@gmail.com**
 
