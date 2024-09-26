@@ -1,15 +1,17 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Priyanka</h1>
 <h2 align="center"> A Tech Enthusiast & Problem Solver!</h2>
 
-**🚀 2024 Computer Science Graduate from Shivajirao Kadam Institute of Technology & Management, Indore.**
-<br><br>
-**🌱 What I’m diving into: Exploring the world of API integrations and mastering end-to-end project development.**
-<br><br>
-**💡 Passionate about: Bringing ideas to life through code, learning cutting-edge tech, and collaborating with others.**
-<br><br>
-**📬 Let’s connect: Feel free to reach out or check out my projects!**
+<h3>👩‍💻 About Me</h3>
 
-- 📫 How to reach me **priya.priyanka1612@gmail.com**
+🚀 2024 Computer Science Graduate from Shivajirao Kadam Institute of Technology & Management, Indore.
+<br>
+🌱 What I’m diving into: Exploring the world of API integrations and mastering end-to-end project development.
+<br>
+💡 Passionate about: Bringing ideas to life through code, learning cutting-edge tech, and collaborating with others.
+<br>
+💼 Let’s connect: Feel free to reach out or check out my projects!
+<br>
+📫 How to reach me **priya.priyanka1612@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
