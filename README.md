@@ -2,6 +2,12 @@
 <h2 align="center"> A Tech Enthusiast & Problem Solver!</h2>
 
 **🚀 2024 Computer Science Graduate from Shivajirao Kadam Institute of Technology & Management, Indore.**
+<br><br>
+**🌱 What I’m diving into: Exploring the world of API integrations and mastering end-to-end project development.**
+<br><br>
+**💡 Passionate about: Bringing ideas to life through code, learning cutting-edge tech, and collaborating with others.**
+<br><br>
+**📬 Let’s connect: Feel free to reach out or check out my projects!**
 
 - 📫 How to reach me **priya.priyanka1612@gmail.com**
 
